@@ -1,0 +1,16 @@
+container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888;
+}
